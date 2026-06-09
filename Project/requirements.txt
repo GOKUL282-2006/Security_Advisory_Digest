@@ -1,0 +1,12 @@
+chromadb
+fastapi
+fastmcp
+httpx2
+python-multipart
+pyyaml
+requests
+sentence-transformers
+streamlit
+uvicorn
+pytest
+pytest-cov
