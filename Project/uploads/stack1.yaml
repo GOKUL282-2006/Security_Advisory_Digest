@@ -1,0 +1,30 @@
+applications:
+  - name: nginx
+    version: 1.20
+
+  - name: openssl
+    version: 1.1.1
+
+  - name: log4j
+    version: 2.14.1
+
+  - name: requests
+    version: 2.25.0
+
+  - name: django
+    version: 3.2.0
+
+  - name: pyyaml
+    version: 5.3.1
+
+  - name: flask
+    version: 2.0.0
+
+  - name: apache
+    version: 2.4.49
+
+  - name: nodejs
+    version: 16.0.0
+
+  - name: postgresql
+    version: 13.0
